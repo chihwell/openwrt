@@ -47,6 +47,7 @@ jobs:
           # cd package
           # mkdir openwrt-packages
           # cd openwrt-packages
+          # git clone https://github.com/coolsnowwolf/lede.git
           # git clone https://github.com/kenzok8/openwrt-packages.git
           # git clone https://github.com/kenzok8/small.git
 
